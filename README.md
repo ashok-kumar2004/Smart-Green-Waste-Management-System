@@ -25,11 +25,8 @@
 📌 Getting Started
 1. Clone the repository
    git clone https://github.com/ashok-kumar2004/Smart-Green-Waste-Management-System.git
-
 2.Install dependencies (e.g., npm install)
-
-3.Run the application
-  npm start
+3.Run the application  npm start
 4.Open your browser at http://localhost:3000
   
 
